@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend software development, data science and cyberscurity
 - 📫 How to reach me--> https//wa.me/+254768711528.com or @franklinekimtai12@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I can explain recursion… but first, let me explain recursion. 😉
+- ⚡ Fun fact: I write code like I cook—sometimes it works, sometimes I burn the whole kitchen (but I learn either way 🔥).
 
 //Lets code and decode codes
 
